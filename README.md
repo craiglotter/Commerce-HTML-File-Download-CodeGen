@@ -1,0 +1,4 @@
+Commerce-HTML-File-Download-CodeGen
+===================================
+
+All Commerce website course materials pages have a specific look and feel in terms of file downloads on the web. Commerce HTML File Download CodeGen is designed to quickly generate this code for the files contained in a user-specified folder. The file names are used as the text descriptors to the actual href links.  Created by Craig Lotter, March 2006
